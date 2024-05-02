@@ -33,7 +33,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       </header>
-      <p>GoGrocery</p>
+      <p class='text-2xl text-sky-400'>GoGrocery</p>
     </div>
   );
 }
